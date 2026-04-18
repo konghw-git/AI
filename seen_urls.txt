@@ -1,13 +1,3 @@
-https://ai.google.dev/gemini-api/docs/changelog
-https://www.trendingtopics.eu/google-gemma-4-launch/
-https://www.buildfastwithai.com/blogs/best-ai-models-april-2026
-https://www.cometapi.com/google-releases-gemma-4-open-source-model/
-https://gemilab.net/en/articles/gemini-updates/gemma-4-complete-guide-2026
-https://www.buildfastwithai.com/blogs/google-gemma-4-open-model
-https://www.buildfastwithai.com/blogs/latest-ai-models-april-2026
-https://www.edtechinnovationhub.com/news/ai-adoption-accelerates-as-stanford-report-highlights-pressure-on-education-jobs-and-infrastructure
-https://www.eweek.com/news/stanford-ai-index-2026-trust-gap-neuron/
-https://www.polity.org.za/article/how-artificial-intelligence-is-rapidly-transforming-the-insurance-and-financial-services-sectors-2026-04-13
 https://app.artificialstudio.ai/articles/the-state-of-ai-2026-insights-stanford-index-report
 https://www.starkinsider.com/2026/04/stanford-2026-ai-index-report.html
 https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-progress-growing-safety-concerns-and-declining-public-trust/
@@ -98,3 +88,13 @@ https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.
 https://www.canada.ca/en/innovation-science-economic-development/news/2026/04/canada-launches-national-initiative-to-build-large-scale-ai-supercomputing-capacity.html
 https://ventionteams.com/solutions/ai/report
 https://www.gov.uk/government/publications/ai-cyber-threats-open-letter-to-business-leaders/ai-cyber-threats-open-letter-to-business-leaders-html
+https://arxiv.org/abs/2604.08065v1
+https://arxiv.org/abs/2604.08476v1
+https://ai.meta.com/blog/introducing-muse-spark-msl/
+https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/
+https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/
+https://www.fisherphillips.com/en/news-insights/new-york-governor-signs-sweeping-ai-safety-law.html
+https://www.eversheds-sutherland.com/en/united-states/insights/gloabl-ai-bulletin-april-2026
+https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/
+https://theacsi.org/news-and-resources/press-releases/2026/04/16/press-release-ai-platforms-study-2026/
+https://openai.com/index/the-next-evolution-of-the-agents-sdk/
