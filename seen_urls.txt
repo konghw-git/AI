@@ -1,13 +1,3 @@
-https://www.ithome.com/0/935/641.htm
-https://arxiv.org/abs/2604.14125
-https://arxiv.org/abs/2604.14113
-https://arxiv.org/abs/2604.14001
-https://arxiv.org/abs/2604.13979
-https://arxiv.org/abs/2604.13991
-https://arxiv.org/abs/2604.14089
-https://arxiv.org/abs/2604.14128
-https://www.anthropic.com/news/claude-opus-4-7
-https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html
 https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/
 https://www.axios.com/2026/04/16/anthropic-claude-opus-model-mythos
 https://aibusiness.com/generative-ai/anthropic-releases-good-not-great-claude-opus-4-7
@@ -98,3 +88,13 @@ https://arxiv.org/abs/2604.07269
 https://arxiv.org/abs/2604.13346
 https://arxiv.org/html/2604.07927
 https://letsdatascience.com/news/lg-unveils-exaone-45-multimodal-ai-model-1ff108ad
+https://arxiv.org/abs/2604.14362
+https://arxiv.org/abs/2604.07595
+https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report
+https://www.globenewswire.com/news-release/2026/04/16/3275135/0/en/Physical-Artificial-Intellligence-AI-Research-Report-2026-A-3-25-Trillion-Market-by-2040-from-383-Billion-in-2026-with-Untapped-Potential-Across-Healthcare-Smart-Infrastructure-and.html
+https://www.progressiverobot.com/2026/04/18/hyundai-robotics-physical-ai/
+https://www.manufacturingdive.com/news/physical-ai-craze-2026-automation-trends-to-watch/810860/
+https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html
+https://www.bcg.com/publications/2026/how-physical-ai-is-reshaping-robotics-today
+https://www.aiandnews.com/blog/breaking-ai-news-april-2026-2/
+https://aihub.org/2026/04/15/2026-ai-index-report-released/
