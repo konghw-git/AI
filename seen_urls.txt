@@ -1,11 +1,3 @@
-https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787
-https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google
-https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/
-https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/
-https://www.geekwire.com/2026/microsoft-releases-new-ai-models-to-further-expand-beyond-openai/
-https://thenextweb.com/news/microsoft-mai-models-openai-independence
-https://www.amd.com/en/newsroom/press-releases/2026-4-16-amd-and-the-french-government-announce-plans-to-advance.html
-https://www.hpcwire.com/aiwire/2026/04/16/amd-and-french-government-announce-plans-to-advance-ai-innovation-research-and-open-ecosystem-development/
 https://www.benzinga.com/markets/tech/26/04/51854155/amd-anchors-frances-ai-strategy-with-exascale-supercomputer-partnership
 https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html
 https://www.humai.blog/74-of-ais-economic-value-goes-to-20-of-companies-pwcs-new-study-explains-why/
@@ -98,3 +90,11 @@ https://renovateqr.com/blog/ai-models-april-2026
 https://llm-stats.com/ai-news
 https://introl.com/blog/world-models-race-agi-2026
 https://www.scmp.com/tech/big-tech/article/3338427/deepseek-kicks-2026-paper-signalling-push-train-bigger-models-less
+https://arxiv.org/abs/2604.14455
+https://arxiv.org/html/2604.10034
+https://www.anthropic.com/news/claude-opus-4-7
+https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm
+https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/
+https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html
+https://beforethecurve.medium.com/openai-and-anthropic-both-released-restricted-cyber-ai-models-in-7-days-heres-what-it-means-8084a8f13853
+https://www.anthropic.com/news/google-broadcom-partnership-compute
