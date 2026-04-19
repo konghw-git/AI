@@ -1,9 +1,3 @@
-https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/
-https://www.axios.com/2026/04/16/anthropic-claude-opus-model-mythos
-https://aibusiness.com/generative-ai/anthropic-releases-good-not-great-claude-opus-4-7
-https://bravenewcoin.com/insights/anthropic-ships-claude-opus-4-7-as-mythos-stays-under-lock-and-key
-https://felloai.com/anthropic-claude-opus-4-7/
-https://www.the-ai-corner.com/p/claude-opus-4-7-guide-benchmarks-2026
 https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787
 https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google
 https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/
@@ -98,3 +92,9 @@ https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends
 https://www.bcg.com/publications/2026/how-physical-ai-is-reshaping-robotics-today
 https://www.aiandnews.com/blog/breaking-ai-news-april-2026-2/
 https://aihub.org/2026/04/15/2026-ai-index-report-released/
+https://deepseek.ai/blog/deepseek-mhc-manifold-constrained-hyper-connections
+https://www.nature.com/articles/d41586-026-01199-z
+https://renovateqr.com/blog/ai-models-april-2026
+https://llm-stats.com/ai-news
+https://introl.com/blog/world-models-race-agi-2026
+https://www.scmp.com/tech/big-tech/article/3338427/deepseek-kicks-2026-paper-signalling-push-train-bigger-models-less
